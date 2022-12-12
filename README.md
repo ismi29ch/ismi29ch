@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Muhammad Ismail
+- 👀 Full Stack Software Engineer
+- 🌱 4+ years of development experience
+- 💞️ I love solving complex problems
+- 📫 How to reach me ismi29ch@gmail.com
