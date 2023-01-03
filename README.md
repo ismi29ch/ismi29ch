@@ -20,12 +20,12 @@
    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg' title="postgreSQL">
      
    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg' title="AWS">
-
   </a>
+   
 <br>
 
-<h2>My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
-<img  src="https://github-readme-stats.vercel.app/api?username=ismi29ch&count_private=true&show_icons=true&theme=default" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi29ch&show_icons=true&theme=radical)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ismi29ch&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
