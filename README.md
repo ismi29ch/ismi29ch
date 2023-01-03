@@ -24,7 +24,7 @@
    
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi29ch&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi29ch&show_icons=true&show_icons=true&theme=transparent)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ismi29ch&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
