@@ -31,6 +31,3 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=ismi29ch&count_private=true&show_icons=true&theme=default" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ismi29ch&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-
-<h2>Daily.dev <img src='https://lh3.googleusercontent.com/SZEbvoLIC0ULqsohKzW1nV2U3aqT-l-OqCws1w6mHRoQu-Sv3At3y5khPTrg3Cu1ykBLvZKyKJDVczlF85DVxViH=w128-h128-e365-rj-sc0x00ffffff' width='30px'> </h2>
-<a href="https://app.daily.dev/ismi29ch"><img src="https://api.daily.dev/devcards/de4dd28170a447e5b73ba7cd06a92d11.png?r=kq2" width="400" alt="Muhammad Bilal's Dev Card"/></a>
