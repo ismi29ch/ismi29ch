@@ -15,7 +15,7 @@
      
    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' title="ReactJS">
    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' title="NodeJs">
-   <img width ='44px' align='center' src ='https://mikevpeeren.nl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext_logo.79d7b4bd.png&w=44&q=75' title="NextJs">
+   <img width ='44px' align='center' src ='https://mikevpeeren.nl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext_logo.79d7b4bd.png&w=128&q=75' title="NextJs">
      
    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg' title="MongoDB">
    <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg' title="postgreSQL">
