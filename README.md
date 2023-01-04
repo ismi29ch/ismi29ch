@@ -1,5 +1,5 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ismi29ch.ismi29ch) 
+![visitors](https://komarev.com/ghpvc/?username=ismi29ch) 
 
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Muhammad Ismail!
 <a href="#" target="_blank"><img src="https://img.shields.io/github/followers/mianbilalashraf?label=Follow&logo=github&style=for-the-badge" alt="mianbilalashraf" /></a> 
