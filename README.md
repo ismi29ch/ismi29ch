@@ -10,7 +10,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/github/followers/ismi29ch?label=Follow&logo=github&style=for-the-badge" alt="ismi29ch" /></a> 
    [<img src="https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmrismich%2F" alt="linkedin mrismich" />](https://www.linkedin.com/in/mrismich/)
   [<img src="https://img.shields.io/twitter/url?label=Hackerrank&logo=Hackerrank&style=for-the-badge&url=https%3A%2F%2Fwww.hackerrank.com%2Fmrismich" alt="ismi29ch" />](https://www.hackerrank.com/mrismich) 
-  
  [<img src="https://img.shields.io/twitter/url?color=blue&label=StackOverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F7717403%2Fismail-ch%3Ftab%3Dprofile"/>](https://stackoverflow.com/users/7717403/ismail-ch?tab=profile) 
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
