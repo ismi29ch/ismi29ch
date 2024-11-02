@@ -34,11 +34,8 @@ achieve impactful results. Let’s connect to create exceptional solutions toget
   <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" title="MongoDB">
   <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" title="PostgreSQL">
   <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" title="AWS">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" title="MongoDB">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" title="PostgreSQL">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" title="AWS">
-  <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Google_Cloud_Logo.svg/512px-Google_Cloud_Logo.svg.png" title="GCP">
-  <img width="44px" align="center" src="https://www.digitalocean.com/favicon.ico" title="Digital Ocean">
+  <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Google_Cloud_Logo.svg/512px-Google_Cloud_Logo.svg.png" title="GCP">
+  <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DigitalOcean_logo.svg/512px-DigitalOcean_logo.svg.png" title="Digital Ocean">
   <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" title="GraphQL">
   <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" title="Vue.js">
 </p>
