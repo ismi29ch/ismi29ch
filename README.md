@@ -44,16 +44,17 @@ I’m a Full-stack Developer with a keen interest in building impactful, scalabl
 
 <table>
   <tr>
-    <td>
-      <strong>Languages</strong><br>
-      - 🗣️ **Urdu**<br>
-      - 🗣️ **English**
+    <td style="width: 50%;">
+      Languages<br>
+      - 🗣️ Urdu<br>
+      - 🗣️ English
     </td>
-    <td>
-      <strong>Hobbies</strong><br>
-      - 🎮 **Gaming**<br>
-      - 🚶‍♂️ **Walking**<br>
-      - 🍳 **Cooking**
+    <td style="width: 50%;">
+      Hobbies<br>
+      - 🎮 Gaming<br>
+      - 🚶‍♂️ Walking<br>
+      - 🍳 Cooking
     </td>
   </tr>
 </table>
+
