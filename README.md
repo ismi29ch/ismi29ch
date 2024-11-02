@@ -2,21 +2,7 @@
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm **Muhammad Ismail**
 
-Technical Lead with over 5 years of experience in full-stack development, specializing in modern JavaScript and TypeScript.
-Recognized for delivering scalable, high-performance applications and successfully leading development teams through efficient
-workflows and best coding practices. Committed to writing clean, robust code that enhances maintainability and performance
-while utilizing Test-Driven Development (TDD) to ensure high-quality results.
-
-I am a proactive problem-solver who excels at identifying challenges and implementing effective solutions to exceed project
-expectations. My skills in managing projects from initial concept to final delivery include defining technical requirements, ensur-
-ing quality, and maintaining adherence to budget and timeline constraints.
-
-Additionally, I am passionate about leveraging AI technologies to accelerate development processes and create advanced intelli-
-gent systems within my projects. My experience in remote collaboration allows me to foster clear communication and alignment
-across distributed teams.
-
-Eager to embrace new challenges, I look forward to contributing to innovative development initiatives and empowering teams to
-achieve impactful results. Let’s connect to create exceptional solutions together.. Here’s a bit about me:
+I’m a Full-stack Developer with a keen interest in building impactful, scalable applications and AI-driven solutions. Here’s a bit about me:
 
 [![GitHub Followers](https://img.shields.io/github/followers/ismi29ch?label=Follow&logo=github&style=for-the-badge)](https://github.com/ismi29ch)
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmrismich%2F)](https://www.linkedin.com/in/mrismich/)
@@ -45,7 +31,21 @@ achieve impactful results. Let’s connect to create exceptional solutions toget
 
 ## About Me
 
-Enthusiastic and skilled Full-stack Developer with expertise in JavaScript (TypeScript, ES6). Proven track record in designing and implementing scalable applications, conducting technical interviews, and contributing to company culture. Experienced in leading development projects and collaborating with stakeholders.
+Technical Lead with over 5 years of experience in full-stack development, specializing in modern JavaScript and TypeScript.
+Recognized for delivering scalable, high-performance applications and successfully leading development teams through efficient
+workflows and best coding practices. Committed to writing clean, robust code that enhances maintainability and performance
+while utilizing Test-Driven Development (TDD) to ensure high-quality results.
+
+I am a proactive problem-solver who excels at identifying challenges and implementing effective solutions to exceed project
+expectations. My skills in managing projects from initial concept to final delivery include defining technical requirements, ensur-
+ing quality, and maintaining adherence to budget and timeline constraints.
+
+Additionally, I am passionate about leveraging AI technologies to accelerate development processes and create advanced intelli-
+gent systems within my projects. My experience in remote collaboration allows me to foster clear communication and alignment
+across distributed teams.
+
+Eager to embrace new challenges, I look forward to contributing to innovative development initiatives and empowering teams to
+achieve impactful results. Let’s connect to create exceptional solutions together.
 
 ## Languages
 
