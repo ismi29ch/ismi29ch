@@ -29,23 +29,16 @@ I’m a Full-stack Developer with a keen interest in building impactful, scalabl
 
 </p>
 
-## About Me
+# About Me
 
-Technical Lead with over 5 years of experience in full-stack development, specializing in modern JavaScript and TypeScript.
-Recognized for delivering scalable, high-performance applications and successfully leading development teams through efficient
-workflows and best coding practices. Committed to writing clean, robust code that enhances maintainability and performance
-while utilizing Test-Driven Development (TDD) to ensure high-quality results.
-
-I am a proactive problem-solver who excels at identifying challenges and implementing effective solutions to exceed project
-expectations. My skills in managing projects from initial concept to final delivery include defining technical requirements, ensur-
-ing quality, and maintaining adherence to budget and timeline constraints.
-
-Additionally, I am passionate about leveraging AI technologies to accelerate development processes and create advanced intelli-
-gent systems within my projects. My experience in remote collaboration allows me to foster clear communication and alignment
-across distributed teams.
-
-Eager to embrace new challenges, I look forward to contributing to innovative development initiatives and empowering teams to
-achieve impactful results. Let’s connect to create exceptional solutions together.
+- 👨‍💻 **Technical Lead** with 5+ years in full-stack development, specializing in JavaScript and TypeScript.  
+- 🚀 Recognized for delivering scalable, high-performance applications and leading development teams.  
+- 🧹 Committed to writing clean, maintainable code using Test-Driven Development (TDD).  
+- 🔍 Proactive problem-solver skilled at identifying challenges and implementing effective solutions.  
+- 📊 Experienced in managing projects from concept to delivery, ensuring adherence to budget and timelines.  
+- 🤖 Passionate about leveraging AI technologies to enhance development processes and create intelligent systems.  
+- 🌍 Strong background in remote collaboration, fostering clear communication across distributed teams.  
+- 💡 Eager to embrace new challenges and contribute to innovative development initiatives.  
 
 ## Languages
 
