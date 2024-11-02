@@ -26,18 +26,18 @@ achieve impactful results. Let’s connect to create exceptional solutions toget
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
 
 <p align="center">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" title="JavaScript">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" title="TypeScript">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" title="ReactJS">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" title="NodeJs">
-  <img width="44px" align="center" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" title="NextJs">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" title="MongoDB">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" title="PostgreSQL">
-  <img width="44px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" title="AWS">
-  <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Google_Cloud_Logo.svg/512px-Google_Cloud_Logo.svg.png" title="GCP">
-  <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DigitalOcean_logo.svg/512px-DigitalOcean_logo.svg.png" title="Digital Ocean">
-  <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" title="GraphQL">
-  <img width="44px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" title="Vue.js">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJs">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL">
+  <img width="44px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js">
 </p>
 
 </p>
