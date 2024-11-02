@@ -1,6 +1,4 @@
-![visitors](https://komarev.com/ghpvc/?username=ismi29ch)
-
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm **Muhammad Ismail**
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm **Muhammad Ismail** ![visitors](https://komarev.com/ghpvc/?username=ismi29ch)
 
 I’m a Full-stack Developer with a keen interest in building impactful, scalable applications and AI-driven solutions. Here’s a bit about me:
 
@@ -38,23 +36,27 @@ I’m a Full-stack Developer with a keen interest in building impactful, scalabl
 - 📊 Experienced in managing projects from concept to delivery, ensuring adherence to budget and timelines.  
 - 🤖 Passionate about leveraging AI technologies to enhance development processes and create intelligent systems.  
 - 🌍 Strong background in remote collaboration, fostering clear communication across distributed teams.  
-- 💡 Eager to embrace new challenges and contribute to innovative development initiatives.  
+- 💡 Eager to embrace new challenges and contribute to innovative development initiatives.
 
-## Languages & Hobbies
+# 
 
 <table>
   <tr>
-    <td style="width: 50%;">
-      Languages<br>
+    <th style="text-align: left;">Languages</th>
+    <th style="text-align: left;">Hobbies</th>
+  </tr>
+  <tr>
+    <td>
       - 🗣️ Urdu<br>
       - 🗣️ English
     </td>
-    <td style="width: 50%;">
-      Hobbies<br>
+    <td>
       - 🎮 Gaming<br>
       - 🚶‍♂️ Walking<br>
       - 🍳 Cooking
     </td>
   </tr>
 </table>
+
+
 
