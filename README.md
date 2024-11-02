@@ -40,10 +40,20 @@ I’m a Full-stack Developer with a keen interest in building impactful, scalabl
 - 🌍 Strong background in remote collaboration, fostering clear communication across distributed teams.  
 - 💡 Eager to embrace new challenges and contribute to innovative development initiatives.  
 
-## Languages
+## Languages & Hobbies
 
-- Urdu, English
-
-## Hobbies
-
-- Gaming, Walking & Cooking
+<table>
+  <tr>
+    <td>
+      <strong>Languages</strong><br>
+      - 🗣️ **Urdu**<br>
+      - 🗣️ **English**
+    </td>
+    <td>
+      <strong>Hobbies</strong><br>
+      - 🎮 **Gaming**<br>
+      - 🚶‍♂️ **Walking**<br>
+      - 🍳 **Cooking**
+    </td>
+  </tr>
+</table>
